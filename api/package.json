@@ -1,0 +1,5 @@
+{
+  "name": "meta-ads-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para conectar el dashboard de Meta Ads con la Graph API"
+}
